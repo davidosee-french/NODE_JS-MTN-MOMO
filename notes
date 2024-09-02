@@ -1,0 +1,41 @@
+
+// = = = = = = = = = = = 
+// REQUETES MTN MOMO
+// = = = =  = ==  = = = 
+
+
+// Requete RequesttoPay : sendRequestTopay
+
+
+// Status de la requete Requesttopay : sendPaymentStatusRequest
+
+
+
+// ========================================================================
+
+
+// @desc Return Payment Status 
+// @route [POST] : /api/request-payment 
+// RequestPayment
+
+  // Verifier qu'il y a des information dans le corps de la requete
+ 
+
+    // Generer a unique uuid
+
+    // Verifier la validite du Token
+
+    // Executer la requestTopay
+
+    // Confirmer si la requete a ete envoyee 
+
+    // Verifier le status de la requete
+       
+    // Retourner le status de la requete à l'application CLIENT/FRONTEND 
+
+
+
+      
+
+
+
